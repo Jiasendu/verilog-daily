@@ -1,4 +1,4 @@
-﻿// 练习 1：2 输入与非门 (NAND)
+// 练习 1：2 输入与非门 (NAND)
 module nand_gate (
     input  wire a,
     input  wire b,

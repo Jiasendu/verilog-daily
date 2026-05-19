@@ -1,4 +1,4 @@
-﻿// 练习 4：信号交换
+// 练习 4：信号交换
 // 输出端口 x = b, y = a
 module swap (
     input  wire [3:0] a,

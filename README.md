@@ -1,4 +1,4 @@
-﻿# Verilog Daily 📘
+# Verilog Daily 📘
 
 我的 Verilog 学习日志，目标是为之后学习 SystemVerilog 打下扎实基础。
 
