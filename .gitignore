@@ -1,0 +1,13 @@
+﻿# 仿真临时文件
+*.vvp
+*.vcd
+*.out
+work/
+xsim.dir/
+*.jou
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
