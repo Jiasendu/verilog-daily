@@ -15,9 +15,10 @@
 
 ## 📂 目录索引
 
-| Day | 主题 | 链接 |
-|-----|------|------|
-| 01 | 模块基础与 assign | [Day01](./Day01_ModuleBasics) |
+| Day | 主题 | 链接 | 状态 |
+|-----|------|------|------|
+| 01 | 模块基础与 assign | [Day01](./Day01_ModuleBasics) | ✅ |
+| 02 | 数据类型与 always 组合逻辑 | [Day02](./Day02_DataTypes_Operators) | ✅ |
 
 ## 📈 当前进度
 

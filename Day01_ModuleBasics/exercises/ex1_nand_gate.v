@@ -4,6 +4,5 @@ module nand_gate (
     input  wire b,
     output wire y
 );
-    // TODO: 实现 NAND 逻辑
-    
+    assign y = ~(a & b);
 endmodule
