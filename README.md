@@ -2,6 +2,9 @@
 
 我的 Verilog 学习日志，目标是为之后学习 SystemVerilog 打下扎实基础。
 
+> 🤖 **本项目由 Claude (Anthropic) 协助完成学习。**
+> 如需用新的 Claude 窗口接续学习，请直接复制 [`CLAUDE_PROMPT.md`](./CLAUDE_PROMPT.md) 中的 prompt 发给 Claude。
+
 ## 🎯 学习路线
 
 - **第一阶段·基础语法（Day 1-5）**：模块结构、数据类型、运算符、assign、always
@@ -20,10 +23,16 @@
 
 查看 [PROGRESS.md](./PROGRESS.md) 获取详细每日记录。
 
-## 🤝 关于此项目
+## 🗂️ 仓库文件说明
 
-这是与 Claude (Anthropic) 协作的学习记录。每天的 README 包含知识点总结、练习题与代码实现。
+| 文件 | 作用 |
+|------|------|
+| [`README.md`](./README.md) | 总览（你正在看的这个） |
+| [`PROGRESS.md`](./PROGRESS.md) | 每日学习进度详细记录 |
+| [`CLAUDE_PROMPT.md`](./CLAUDE_PROMPT.md) | 用于新 Claude 窗口接续学习的 prompt |
+| `DayXX_*/` | 每天的学习目录（知识点 + 练习题） |
 
 ---
 
 > 开始日期：2026-05-19
+> 作者：[Jiasendu](https://github.com/Jiasendu)
