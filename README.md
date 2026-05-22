@@ -20,6 +20,8 @@
 | 02  | 数据类型与 always 组合逻辑  | [Day02](./Day02_DataTypes_Operators)       | ✅   |
 | 03  | 运算符进阶 + 位运算应用     | [Day03](./Day03_OperatorsAdvanced)         | ✅   |
 | 04  | 时序逻辑初步（posedge clk） | [Day04](./Day04_SequentialLogic)           | ✅   |
+| 05  | 基础语法收尾（优先级编码器、casez） | [Day05](./Day05_PriorityEncoder)  | ✅   |
+| 06  | 组合逻辑：译码器            | [Day06](./Day06_Decoder)                   | ⏳   |
 
 ## 📈 当前进度
 
