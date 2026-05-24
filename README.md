@@ -21,6 +21,7 @@
 | [Day 04](./Day04_SequentialLogic) | 时序逻辑初步 | 完成 |
 | [Day 05](./Day05_PriorityEncoder) | 优先级编码器、casez | 完成 |
 | [Day 06](./Day06_Decoder) | 译码器 | 完成 |
-| [Day 07](./Day07_Adder) | 加法器 | 待开始 |
+| [Day 07](./Day07_Adder) | 加法器 | 完成 |
+| [Day 08](./Day08_MUX) | 多路选择器 | 待开始 |
 
 详细进度见 [PROGRESS.md](./PROGRESS.md)
